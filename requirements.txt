@@ -1,13 +1,13 @@
-transformers==4.36.2
-torch==2.1.2
-streamlit==1.29.0
+transformers>=4.36.2
+torch>=2.1.2
+streamlit>=1.29.0
 datasets>=2.17.0
 --extra-index-url https://download.pytorch.org/whl/cpu
 accelerate>=0.26.0
-numpy>=1.24.0
-pandas>=2.2.0
-requests==2.31.0
-arxiv==2.0.0
-scholarly==1.7.11
-python-dotenv==1.0.0
-beautifulsoup4==4.12.2
+requests>=2.31.0
+sentencepiece>=0.1.99
+arxiv>=1.4.7
+scholarly>=1.7.11
+biopython>=1.81
+beautifulsoup4>=4.12.2
+python-dotenv>=1.0.0

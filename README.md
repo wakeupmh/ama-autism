@@ -1,8 +1,8 @@
 ---
 title: Ama Autism
-emoji: 🔥
-colorFrom: gray
-colorTo: pink
+emoji: 🧩
+colorFrom: green
+colorTo: purple
 sdk: streamlit
 sdk_version: 1.42.0
 app_file: app.py
